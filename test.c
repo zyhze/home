@@ -1,7 +1,5 @@
-#include <stdio.h>
-
 int main (void) {
-    int *array = malloc()
+    //    int *array = malloc();
 
     return 1;
 }
